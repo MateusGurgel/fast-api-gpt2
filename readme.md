@@ -1,5 +1,5 @@
 
-## Instalação
+## Instalação & Execução
 
 ### Requisitos
 
@@ -17,5 +17,9 @@
 
 ```bash
     pip install -r requirements.txt
+```
+
+```bash
+    fastapi dev main.py
 ```
     
